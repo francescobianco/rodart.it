@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.rodart.it	TRUE	/	FALSE	1999999999	8552c95b5338d0a36963369a7af384aa	bcaa2b52a356234292f495ccb092f309
+
